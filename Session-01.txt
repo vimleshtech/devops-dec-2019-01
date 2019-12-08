@@ -1,0 +1,30 @@
+DevOps:
+=======================
+	Dev+Test+Ops(Infra)
+	Java,PHP,NodeJS,Python+Junit,TestNG,Selenium+OnPremises, Cloud (AWS, GoogleCloud, Azure , Oracle etc.)
+
+
+	Proces  : Agile Scrum   : Jira 
+		 Terms:
+		  Scrum		: is template which track and mange the project
+		  UserStory     : user requirement (new, enhancement), bug fix 
+		  Backlog	: list of userstory is called backlog 
+		  StoryPoint    : no of hours to complete every userstory 
+		  Velocity 	: is measurement of sprint timeline and usertory 
+				  team member * no of hours * days 	
+		  Sprint	: every plan release is called sprint 
+		  
+		  
+		  Meetings
+
+
+		
+		
+		 
+	Repository: Git and GitHub
+	Cloud(AWS): VM/EC2 (Elastic Cloud Compute)
+		
+		
+		
+
+	
